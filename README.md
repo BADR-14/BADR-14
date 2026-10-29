@@ -2,7 +2,7 @@
 
 **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with one year of professional experience building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
 
-[Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/CV.pdf) 
+[Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/Badr_AlDeen_AlSudi.pdf) 
 
 · [Email](mailto:badrdsudi14@gmail.com) 
 · [LinkedIn](https://www.linkedin.com/in/badr-al-deen-sudi)
