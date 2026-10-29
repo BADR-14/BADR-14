@@ -22,7 +22,6 @@ An Arabic event-focused platform for youth and media organizations: companies pu
 
 [Repository](https://github.com/BADR-14/smart-platform-for-news) · [Demo video](https://youtu.be/l-BBL8FAtHQ)
 
-[![Smart Platform for News demo](https://img.youtube.com/vi/l-BBL8FAtHQ/hqdefault.jpg)](https://youtu.be/l-BBL8FAtHQ)
 
 ### Maktabatna: Home Library Management System
 
