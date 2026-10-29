@@ -1,6 +1,8 @@
 # 👋 Badr AlDeen AlSaudi
 
-> **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with one year of professional experience building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
+> **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with hands-on experience from a government-sector internship, building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
+
+💼 **Open to:** junior back-end / full-stack roles (Laravel and Java/Spring), remote or on-site
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -26,7 +28,11 @@ An Arabic event-focused platform for youth and media organizations: companies pu
 - **Stack:** Laravel 12 · MySQL · React 19 + TypeScript · Flutter
 - **Team:** 6 developers (3 back-end, 2 Flutter, 1 web front-end)
 - **My role:** Back-end developer: REST API design, database design, account verification pipeline, and wallet/payments integration
-- **Highlights:** monorepo (API, web, mobile), Sanctum authentication, queued background jobs, Google Vision document verification
+- **Highlights:**
+  - Team back-end of **116 REST endpoints**, 32 Eloquent models, and 42 migrations
+  - Service-layer architecture with 45 service classes and 34 Form Request validators
+  - Sanctum authentication, queued background jobs, and Google Vision document verification
+  - Monorepo containing the API, web app, and mobile app
 
 [🔗 Repository](https://github.com/BADR-14/smart-platform-for-news) · [🎬 Demo video](https://youtu.be/l-BBL8FAtHQ)
 
@@ -46,24 +52,31 @@ A system to organize and manage a private home library of around 7,000 books.
 
 ---
 
+## 💼 Experience
+
+### Assistant Software Engineer (Intern): Ministry of Public Works and Housing, Syria
+*06/2026 – 08/2026*
+
+- Audited a legacy Spring application and resolved **11 prioritized security vulnerabilities**: closed access-control gaps, removed insecure GET-based delete operations, and replaced plaintext password storage with proper password encoding
+- Delivered a **13-step performance optimization** covering N+1 query resolution, connection pooling, caching, log cleanup, and JVM/Tomcat tuning, improving response times under load
+- Migrated legacy JSP interfaces to modern **HTML/CSS/JavaScript** front-ends with JSON-based data exchange, replacing server-rendered views
+
+**Tech:** Java, Spring MVC, Tomcat, JSP, JavaScript
+
+---
+
 ## 🛠️ Technical Skills
 
 | Area | Tools |
 |---|---|
-| Back-end | PHP, Laravel, RESTful APIs, Webhooks |
+| Back-end | PHP, Laravel, RESTful APIs, Webhooks, Spring MVC (security hardening, performance tuning) |
 | Databases | SQL, MySQL, PostgreSQL, Oracle |
 | Architecture | MVC, MAUI |
 | Front-end | HTML5, CSS3, JavaScript, Bootstrap, React.js |
 | Version control | Git, GitHub, GitLab |
-| DevOps | Docker, Docker Compose|
+| DevOps | Docker, Docker Compose |
 | Automation | n8n |
 | Problem solving | Competitive programming (1+ years) |
-
----
-
-## 📊 GitHub Activity
-
-![Contributions](https://ghchart.rshah.org/BADR-14)
 
 ---
 
