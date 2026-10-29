@@ -33,7 +33,7 @@ A system to organize and manage a private home library of around 7,000 books.
 - **Stack:** Laravel · PostgreSQL · React Native
 - **My role:** designed and built the entire back-end, including database design and API
 
-[Back-end repository](https://github.com/BADR-14/Maktabatna-Laravel) · [Demo video](https://youtube.com/shorts/hv_Hg2fsbGQ)
+[Repository](https://github.com/BADR-14/Maktabatna-Laravel) · [Demo video](https://youtube.com/shorts/hv_Hg2fsbGQ)
 
 ---
 
