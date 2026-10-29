@@ -55,9 +55,18 @@ A system to organize and manage a private home library of around 7,000 books.
 | Architecture | MVC, MAUI |
 | Front-end | HTML5, CSS3, JavaScript, Bootstrap, React.js |
 | Version control | Git, GitHub, GitLab |
-| DevOps | Docker |
+| DevOps | Docker, Docker Compose|
 | Automation | n8n |
 | Problem solving | Competitive programming (1+ years) |
+
+---
+
+## 📊 GitHub Activity
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BADR-14&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADR-14&layout=compact&hide_border=true" />
+</p>
 
 ---
 
