@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-[📄 Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/Badr_AlDeen_AlSudi.pdf)
+[📄 Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/Badr_AlDeen_AlSudi.pdf)<br>
 · [✉️ Email](mailto:badrdsudi14@gmail.com)
 · [💼 LinkedIn](https://www.linkedin.com/in/badr-al-deen-sudi)
 
