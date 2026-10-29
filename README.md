@@ -51,9 +51,10 @@ A system to organize and manage a private home library of around 7,000 books.
 |---|---|
 | Back-end | PHP, Laravel, RESTful APIs, Webhooks |
 | Databases | SQL, MySQL, PostgreSQL, Oracle |
-| Architecture | MVC, Repository, Service, Strategy and Adapter patterns |
+| Architecture | MVC, MAUI |
 | Front-end | HTML5, CSS3, JavaScript, Bootstrap, React.js |
 | Version control | Git, GitHub, GitLab |
+| DevOps | Docker |
 | Automation | n8n |
 | Also familiar with | Docker and Docker Compose, Spring MVC (maintaining and optimizing existing systems) |
 | Problem solving | Competitive programming (1+ years) |
