@@ -63,10 +63,7 @@ A system to organize and manage a private home library of around 7,000 books.
 
 ## 📊 GitHub Activity
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BADR-14&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADR-14&layout=compact&hide_border=true" />
-</p>
+![Contributions](https://ghchart.rshah.org/BADR-14)
 
 ---
 
