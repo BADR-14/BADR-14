@@ -1,17 +1,24 @@
-# Badr AlDeen AlSaudi 
+# 👋 Badr AlDeen AlSaudi
 
-**Back-end Software Engineer** based in Damascus, Syria. Recent graduate with one year of professional experience building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
+> **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with one year of professional experience building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
 
-[Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/Badr_AlDeen_AlSudi.pdf) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-· [Email](mailto:badrdsudi14@gmail.com) 
-· [LinkedIn](https://www.linkedin.com/in/badr-al-deen-sudi)
+[📄 Download CV (PDF)](https://github.com/BADR-14/BADR-14/blob/main/Badr_AlDeen_AlSudi.pdf)
+· [✉️ Email](mailto:badrdsudi14@gmail.com)
+· [💼 LinkedIn](https://www.linkedin.com/in/badr-al-deen-sudi)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Smart Platform for News (Graduation Project)
+### 📰 Smart Platform for News (Graduation Project)
 
 An Arabic event-focused platform for youth and media organizations: companies publish events, lectures and courses, users follow, interact and rate, and admins verify accounts and moderate content.
 
@@ -20,10 +27,11 @@ An Arabic event-focused platform for youth and media organizations: companies pu
 - **My role:** Back-end developer: REST API design, database design, account verification pipeline, and wallet/payments integration
 - **Highlights:** monorepo (API, web, mobile), Sanctum authentication, queued background jobs, Google Vision document verification
 
-[Repository](https://github.com/BADR-14/smart-platform-for-news) · [Demo video](https://youtu.be/l-BBL8FAtHQ)
+[🔗 Repository](https://github.com/BADR-14/smart-platform-for-news) · [🎬 Demo video](https://youtu.be/l-BBL8FAtHQ)
 
+---
 
-### Maktabatna: Home Library Management System
+### 📚 Maktabatna: Home Library Management System
 
 A system to organize and manage a private home library of around 7,000 books.
 
@@ -33,11 +41,11 @@ A system to organize and manage a private home library of around 7,000 books.
 - **Stack:** Laravel · PostgreSQL · React Native
 - **My role:** designed and built the entire back-end, including database design and API
 
-[Repository](https://github.com/BADR-14/Maktabatna-Laravel) · [Demo video](https://youtube.com/shorts/hv_Hg2fsbGQ)
+[🔗 Repository](https://github.com/BADR-14/Maktabatna-Laravel) · [🎬 Demo video](https://youtube.com/shorts/hv_Hg2fsbGQ)
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Area | Tools |
 |---|---|
@@ -50,6 +58,8 @@ A system to organize and manage a private home library of around 7,000 books.
 | Also familiar with | Docker and Docker Compose, Spring MVC (maintaining and optimizing existing systems) |
 | Problem solving | Competitive programming (1+ years) |
 
-## Languages
+---
+
+## 🌍 Languages
 
 Arabic (native) · English (conversational)
