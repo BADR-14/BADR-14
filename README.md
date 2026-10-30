@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=260&section=header&text=BADR&fontSize=110&fontColor=1f2937&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,55:6B7280,100:FFFFFF&height=250&text=BADR&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Back-end%20Software%20Engineer&descSize=22&descAlignY=58" width="100%" />
 </p>
+
 
 # 👋 Badr AlDeen AlSaudi
 
 > **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with hands-on experience from a government-sector internship, building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F2937&center=true&vCenter=true&width=500&lines=Back-end+Software+Engineer;Laravel+%7C+REST+APIs" />
+</p>
 💼 **Open to:** junior back-end / full-stack roles (Laravel and Java/Spring), remote or on-site
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
