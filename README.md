@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F2937&center=true&vCenter=true&width=500&lines=Back-end+Software+Engineer;Laravel+%7C+REST+APIs" />
 </p>
+
 💼 **Open to:** junior back-end / full-stack roles (Laravel and Java/Spring), remote or on-site
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
