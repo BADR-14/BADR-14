@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=260&section=header&text=BADR&fontSize=110&fontColor=1f2937&fontAlignY=50" width="100%" />
+</p>
+
 # 👋 Badr AlDeen AlSaudi
 
 > **Back-end Software Engineer** based in Damascus, Syria. Recent graduate with hands-on experience from a government-sector internship, building REST APIs and database-driven web applications with **Laravel**. I start from the real use case before picking the technology.
